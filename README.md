@@ -11,6 +11,10 @@ python pulse.py urls.txt
 python pulse.py urls.txt --follow-redirects --show-redirects
 ```
 
+![pulse](images/pulse1.png)
+
+![pulse](images/pulse2.png)
+
 ## Requirements
 
 - Python 3.10+
